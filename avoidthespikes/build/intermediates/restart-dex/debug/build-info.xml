@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    density="hdpi"
+    format="7"
+    timestamp="2124005719755961" >
+
+    <task
+        name="javac"
+        duration="2869" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="4116" />
+    <task
+        name="verifier"
+        duration="1272" />
+
+    <artifact
+        location="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\outputs\apk\avoidthespikes-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="2124005719755961" >
+        <artifact
+            location="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\outputs\apk\avoidthespikes-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

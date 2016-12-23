@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-base-7.5.0_b22a523283bff14ce3cc0817e24f3f2aa611d9fd.jar" />
+    </item>
+    <item
+        jar="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\pre-dexed\release\internal_impl-23.3.0_d3c392c9f285593dfbe8eae772170cabf6946da2.jar" />
+    </item>
+    <item
+        jar="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-analytics-7.5.0_52103f40d4ea85e12f9149598751bf24f2d599d3.jar" />
+    </item>
+    <item
+        jar="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-wallet-7.5.0_d77f66bb309e86f6c671de4f0dae9f1a70add395.jar" />
+    </item>
+    <item
+        jar="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-identity-7.5.0_62b92766ef8bbed0c223ff4f57cd547ed5bc4a7e.jar" />
+    </item>
+    <item
+        jar="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-gcm-7.5.0_af3d76e0a7839aa5a89c587baf4f21b51bb75882.jar" />
+    </item>
+    <item
+        jar="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.3.0_c69ced407ceecf64e8c6b64ddeabc6146d54f2dd.jar" />
+    </item>
+    <item
+        jar="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-location-7.5.0_bda2c69f27958a96ef67076be7ae007f219810e7.jar" />
+    </item>
+    <item
+        jar="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-fitness-7.5.0_a669820305e21a8afb478b7746711afc959bebfd.jar" />
+    </item>
+    <item
+        jar="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-23.3.0_cb127d95a1083424d3bb51ea9554a6bf9d1c40d9.jar" />
+    </item>
+    <item
+        jar="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-appindexing-7.5.0_f52ab83d2b49f608d92dac97f66ee650448590a7.jar" />
+    </item>
+    <item
+        jar="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-safetynet-7.5.0_2b3476a6ae0826165dfe4ef4a4fadd7ac6ac01db.jar" />
+    </item>
+    <item
+        jar="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-wearable-7.5.0_0756b35228b6f37072a616ba1e9520232b2f86d3.jar" />
+    </item>
+    <item
+        jar="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-23.3.0_c61c1830727a3c582ec09af03f4215f8b99e0436.jar" />
+    </item>
+    <item
+        jar="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\pre-dexed\release\internal_impl-22.0.0_dd1420b3761177b6f4a990ea0fec668ac3438713.jar" />
+    </item>
+    <item
+        jar="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-plus-7.5.0_d107aecd3c22a2641642e0c8fe77b8ff6022015c.jar" />
+    </item>
+    <item
+        jar="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-games-7.5.0_8bd945b7a2bb0b9d3d5806fb95a007b6e04d5bd2.jar" />
+    </item>
+    <item
+        jar="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-drive-7.5.0_3355b23e10081057cc210a2f5e0289372461b839.jar" />
+    </item>
+    <item
+        jar="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.3.0_a44301d4119aedfc80ae6cb61bc8cc5686203da5.jar" />
+    </item>
+    <item
+        jar="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-maps-7.5.0_7f5443de891046201f7a5e1bfe97bdc1b956bbeb.jar" />
+    </item>
+    <item
+        jar="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-nearby-7.5.0_8c36ecf1ace5c0fd731255452bdee8e51ea1a0f4.jar" />
+    </item>
+    <item
+        jar="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-cast-7.5.0_8a19f333a3cedeef3526803c69da45c5feea6f19.jar" />
+    </item>
+    <item
+        jar="D:\Android-Studio-sdk-update\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\pre-dexed\release\support-annotations-23.3.0_aaa6686c647f0800b651d900d0594f31fc7e88c4.jar" />
+    </item>
+    <item
+        jar="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-panorama-7.5.0_79c7c1b41013a7761ed7f1f523ae016fc613f8fa.jar" />
+    </item>
+    <item
+        jar="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-ads-7.5.0_fda78344e38e6b7114424448ba3455c8442321bd.jar" />
+    </item>
+    <item
+        jar="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\pre-dexed\release\com.android.support-mediarouter-v7-22.0.0_0b3ca7ae993a9c37960d5900b0e5e1947b54ff0f.jar" />
+    </item>
+    <item
+        jar="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-appstate-7.5.0_f16e2ad92eebb31072298d1bcb4944715ec7fc74.jar" />
+    </item>
+    <item
+        jar="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\exploded-aar\Mission of Lazy Bird\baseGameUtils\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4e3f2e66bd5f2c4914de786218c6b2ebc89323fe">
+        <dex dex="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\pre-dexed\release\Mission of Lazy Bird-baseGameUtils-unspecified_a00df94de0f3556d353a9261d610fe990ed83817.jar" />
+    </item>
+    <item
+        jar="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="D:\APP Workstation\Mission of Lazy Bird\avoidthespikes\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-appinvite-7.5.0_4d9bd425ea5b3576b1d9d4d17e12f94ea38c02a5.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\build\\intermediates\\res\\merged\\release\\raw\\music.mp3",
+        "source": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\src\\main\\res\\raw\\music.mp3"
+    },
+    {
+        "merged": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\build\\intermediates\\res\\merged\\release\\raw\\gtm_analytics",
+        "source": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\7.5.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\build\\intermediates\\res\\merged\\release\\raw\\gameover.wav",
+        "source": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\src\\main\\res\\raw\\gameover.wav"
+    },
+    {
+        "merged": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\build\\intermediates\\res\\merged\\release\\raw\\button.wav",
+        "source": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\src\\main\\res\\raw\\button.wav"
+    },
+    {
+        "merged": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\build\\intermediates\\res\\merged\\release\\raw\\coin.wav",
+        "source": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\src\\main\\res\\raw\\coin.wav"
+    }
+]

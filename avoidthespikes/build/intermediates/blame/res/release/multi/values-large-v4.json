@@ -1,0 +1,406 @@
+[
+    {
+        "outputFile": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\build\\intermediates\\res\\merged\\release\\values-large-v4\\values-large-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 61,
+                        "endOffset": 112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 117,
+                        "endColumn": 71,
+                        "endOffset": 184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 58,
+                    "endOffset": 243
+                },
+                "from": {
+                    "file": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 58,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 248,
+                    "endColumn": 70,
+                    "endOffset": 314
+                },
+                "from": {
+                    "file": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 70,
+                        "endOffset": 314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 319,
+                    "endColumn": 70,
+                    "endOffset": 385
+                },
+                "from": {
+                    "file": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 319,
+                        "endColumn": 70,
+                        "endOffset": 385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 390,
+                    "endColumn": 69,
+                    "endOffset": 455
+                },
+                "from": {
+                    "file": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 390,
+                        "endColumn": 69,
+                        "endOffset": 455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 460,
+                    "endColumn": 69,
+                    "endOffset": 525
+                },
+                "from": {
+                    "file": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 460,
+                        "endColumn": 69,
+                        "endOffset": 525
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 530,
+                    "endColumn": 67,
+                    "endOffset": 593
+                },
+                "from": {
+                    "file": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 530,
+                        "endColumn": 67,
+                        "endOffset": 593
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 598,
+                    "endColumn": 67,
+                    "endOffset": 661
+                },
+                "from": {
+                    "file": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 598,
+                        "endColumn": 67,
+                        "endOffset": 661
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 666,
+                    "endColumn": 63,
+                    "endOffset": 725
+                },
+                "from": {
+                    "file": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 666,
+                        "endColumn": 63,
+                        "endOffset": 725
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 730,
+                    "endColumn": 52,
+                    "endOffset": 778
+                },
+                "from": {
+                    "file": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 52,
+                        "endOffset": 296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 783,
+                    "endColumn": 42,
+                    "endOffset": 821
+                },
+                "from": {
+                    "file": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 166,
+                        "endColumn": 42,
+                        "endOffset": 204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 826,
+                    "endColumn": 36,
+                    "endOffset": 858
+                },
+                "from": {
+                    "file": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 302,
+                        "endColumn": 36,
+                        "endOffset": 334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 863,
+                    "endColumn": 36,
+                    "endOffset": 895
+                },
+                "from": {
+                    "file": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 379,
+                        "endColumn": 36,
+                        "endOffset": 411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 900,
+                    "endColumn": 36,
+                    "endOffset": 932
+                },
+                "from": {
+                    "file": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 210,
+                        "endColumn": 36,
+                        "endOffset": 242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 937,
+                    "endColumn": 40,
+                    "endOffset": 973
+                },
+                "from": {
+                    "file": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 124,
+                        "endColumn": 40,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 978,
+                    "endColumn": 36,
+                    "endOffset": 1010
+                },
+                "from": {
+                    "file": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 86,
+                        "endColumn": 36,
+                        "endOffset": 118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1015,
+                    "endColumn": 37,
+                    "endOffset": 1048
+                },
+                "from": {
+                    "file": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 340,
+                        "endColumn": 37,
+                        "endOffset": 373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1053,
+                    "endColumn": 54,
+                    "endOffset": 1103
+                },
+                "from": {
+                    "file": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 730,
+                        "endColumn": 54,
+                        "endOffset": 780
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1108,
+                    "endColumn": 103,
+                    "endOffset": 1207
+                },
+                "from": {
+                    "file": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 785,
+                        "endColumn": 103,
+                        "endOffset": 884
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1212,
+                    "endColumn": 115,
+                    "endOffset": 1323
+                },
+                "from": {
+                    "file": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 889,
+                        "endColumn": 115,
+                        "endOffset": 1000
+                    }
+                }
+            }
+        ]
+    }
+]

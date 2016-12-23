@@ -1,0 +1,159 @@
+[
+    {
+        "outputFile": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\build\\intermediates\\res\\merged\\debug\\values-normal-v4\\values-normal-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\src\\main\\res\\values-normal\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 269,
+                        "endColumn": 51,
+                        "endOffset": 316
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 42,
+                    "endOffset": 145
+                },
+                "from": {
+                    "file": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\src\\main\\res\\values-normal\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 187,
+                        "endColumn": 42,
+                        "endOffset": 225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 150,
+                    "endColumn": 36,
+                    "endOffset": 182
+                },
+                "from": {
+                    "file": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\src\\main\\res\\values-normal\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 322,
+                        "endColumn": 36,
+                        "endOffset": 354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 187,
+                    "endColumn": 36,
+                    "endOffset": 219
+                },
+                "from": {
+                    "file": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\src\\main\\res\\values-normal\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 399,
+                        "endColumn": 36,
+                        "endOffset": 431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 224,
+                    "endColumn": 36,
+                    "endOffset": 256
+                },
+                "from": {
+                    "file": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\src\\main\\res\\values-normal\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 231,
+                        "endColumn": 36,
+                        "endOffset": 263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 261,
+                    "endColumn": 39,
+                    "endOffset": 296
+                },
+                "from": {
+                    "file": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\src\\main\\res\\values-normal\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 39,
+                        "endOffset": 181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 301,
+                    "endColumn": 36,
+                    "endOffset": 333
+                },
+                "from": {
+                    "file": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\src\\main\\res\\values-normal\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 36,
+                        "endOffset": 140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 338,
+                    "endColumn": 37,
+                    "endOffset": 371
+                },
+                "from": {
+                    "file": "D:\\APP Workstation\\Mission of Lazy Bird\\avoidthespikes\\src\\main\\res\\values-normal\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 360,
+                        "endColumn": 37,
+                        "endOffset": 393
+                    }
+                }
+            }
+        ]
+    }
+]
